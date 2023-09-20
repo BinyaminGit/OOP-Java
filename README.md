@@ -6,7 +6,9 @@ The Polygon class represents a polygon with vertices and offers methods for calc
 
 ## Methods
 addVertex(double x, double y): Adds a vertex to the polygon.
+
 highestVertex(): Returns the highest point in the polygon.
+
 toString(): Generates a string representation of the polygon.
 calcPerimeter(): Calculates the perimeter of the polygon.
 calcArea(): Calculates the area of the polygon using the Heron formula.
