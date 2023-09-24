@@ -7,7 +7,7 @@ The Polygon class represents a polygon with vertices and offers methods for calc
 ## Methods
 **addVertex(double x, double y)**:     Adds a vertex to the polygon.
 
-__highestVertex()__:     Returns the highest point in the polygon. `rgb(9, 105, 218)
+__highestVertex()__:     Returns the highest point in the polygon.
 
 **toString()**:     Generates a string representation of the polygon.
 
